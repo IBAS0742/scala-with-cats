@@ -4,7 +4,7 @@
 
 - CRDTs 直接翻译是 通讯复制数据类型，和网上的  CRDT(Conflict-Free Replicated Data Type) 不是一个内容
 
-### 在本个案例的学习中我们将探索 Commutaࢼve Replicated Data Types (CRDTs)，这是一种数据结构能被用来协调最终一致的数据。
+### 在本个案例的学习中我们将探索 Commutative Replicated Data Types (CRDTs)，这是一种数据结构能被用来协调最终一致的数据。
 
 
 ## 11.1 最终一致性
