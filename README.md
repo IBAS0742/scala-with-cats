@@ -1,4 +1,4 @@
-# scala-with-cats
+# scala-with-cats（合并更新第十一章笔记）
 
 scala with cats 一书的笔记、习题
 
@@ -70,9 +70,10 @@ scala with cats 一书的笔记、习题
     * [10.5 Kleislis](chapter10/Kleislis.md)
     * [10.6 Summary](chapter10/Summary.md)
 * [Chapter 11 Case Study: CRDTs](chapter11/Introduction.md)
-    * [11.1 Eventual Consistency](chapter11/Eventual-Consistency.md)
-    * [11.2 The GCounter](chapter11/The-GCounter.md)
-    * [11.3 Generalisation](chapter11/Generalisation.md)
-    * [11.4 Abstracting GCounter to a Type Class](chapter11/Abstracting-GCounter-to-a-Type-Class.md)
-    * [11.5 Abstracting a Key Value Store](chapter11/Abstracting-a-Key-Value-Store.md)
-    * [11.6 Summary](chapter11/Summary.md)
+    * [chapter 11](chapter11/myNote.md)
+    * [❌][11.1 Eventual Consistency](chapter11/Eventual-Consistency.md)
+    * [❌][11.2 The GCounter](chapter11/The-GCounter.md)
+    * [❌][11.3 Generalisation](chapter11/Generalisation.md)
+    * [❌][11.4 Abstracting GCounter to a Type Class](chapter11/Abstracting-GCounter-to-a-Type-Class.md)
+    * [❌][11.5 Abstracting a Key Value Store](chapter11/Abstracting-a-Key-Value-Store.md)
+    * [❌][11.6 Summary](chapter11/Summary.md)
